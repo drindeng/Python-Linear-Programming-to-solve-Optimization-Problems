@@ -1,4 +1,4 @@
-# Python-Linear-Programming-to-solve-Optimization-Problems
+# Linear programming: Understanding and solving optimization problems using Docplex and Python
 
 ![image](https://user-images.githubusercontent.com/106476037/203272991-063cabf5-5297-402f-8077-10456f2906d5.png)
 
